@@ -1,3 +1,3 @@
 export const ShopActionTypes = {
-	BLAH: 'BLAH'
-}
+	UPDATE_COLLECTIONS: 'UPDATE_COLLECTIONS'
+};
